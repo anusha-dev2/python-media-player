@@ -1,0 +1,1182 @@
+2025-04-18 07:37:10,038 - media_player - INFO - Loaded configuration from config.json
+2025-04-18 07:37:10,039 - media_player - INFO - Starting media player application
+2025-04-18 07:37:10,039 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-18 07:37:10,050 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-18 07:37:10,051 - media_player - INFO - No auth token, logging in
+2025-04-18 07:37:10,053 - media_player - ERROR - Login failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/auth/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff6b4452870>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-18 07:37:10,053 - media_player - ERROR - Authentication failed, exiting
+2025-04-18 10:16:59,329 - media_player - INFO - Loaded configuration from config.json
+2025-04-18 10:16:59,329 - media_player - INFO - Starting media player application
+2025-04-18 10:16:59,329 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-18 10:16:59,347 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-18 10:16:59,348 - media_player - INFO - No auth token, logging in
+2025-04-18 10:16:59,567 - media_player - ERROR - Login failed: 500 Server Error:  for url: http://192.168.0.115:8080/api/auth/login
+2025-04-18 10:16:59,567 - media_player - ERROR - Authentication failed, exiting
+2025-04-18 13:03:20,015 - media_player - INFO - Loaded configuration from config.json
+2025-04-18 13:03:20,016 - media_player - INFO - Starting media player application
+2025-04-18 13:03:20,016 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-18 13:03:20,035 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-18 13:03:20,035 - media_player - INFO - No auth token, logging in
+2025-04-18 13:03:20,288 - media_player - ERROR - Login failed: 500 Server Error:  for url: http://192.168.0.115:8080/api/auth/login
+2025-04-18 13:03:20,288 - media_player - ERROR - Authentication failed, exiting
+2025-04-18 13:27:16,756 - media_player - INFO - Loaded configuration from config.json
+2025-04-18 13:27:16,757 - media_player - INFO - Starting media player application
+2025-04-18 13:27:16,757 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-18 13:27:16,775 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-18 13:27:16,775 - media_player - INFO - No auth token, logging in
+2025-04-18 13:27:17,045 - media_player - INFO - Saved configuration to config.json
+2025-04-18 13:27:17,047 - media_player - INFO - Saved configuration to config.json
+2025-04-18 13:27:17,049 - media_player - INFO - Saved configuration to config.json
+2025-04-18 13:27:17,049 - media_player - INFO - Logged in as user: priya
+2025-04-18 13:27:17,050 - media_player - INFO - Device not registered, registering
+2025-04-18 13:27:17,096 - media_player - INFO - Device already registered, retrieving device info
+2025-04-18 13:27:17,132 - media_player - INFO - Saved configuration to config.json
+2025-04-18 13:27:17,132 - media_player - INFO - Retrieved device: Test Device (6802147881a7201d228802cc)
+2025-04-18 13:27:17,151 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-18 13:27:17,152 - media_player - WARNING - No playlists available
+2025-04-18 13:28:13,144 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-18 13:29:09,319 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-18 13:30:05,450 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-18 13:31:01,464 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-18 13:31:57,408 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-18 13:32:53,531 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-18 13:33:49,594 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-18 13:34:45,804 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-18 13:35:42,103 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-18 13:36:38,391 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-18 13:37:32,514 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-18 13:38:28,498 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-18 13:39:24,627 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-18 13:40:21,157 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-18 13:41:17,379 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-18 13:42:13,575 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-18 13:43:09,886 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-19 04:22:30,061 - media_player - INFO - Loaded configuration from config.json
+2025-04-19 04:22:30,061 - media_player - INFO - Loaded existing auth token
+2025-04-19 04:22:30,062 - media_player - INFO - Starting media player application
+2025-04-19 04:22:30,062 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-19 04:22:30,083 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-19 04:22:30,121 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-19 04:22:30,121 - media_player - WARNING - No playlists available
+2025-04-19 04:23:27,452 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-19 04:24:24,758 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-19 04:25:22,367 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-19 04:26:19,714 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-19 04:27:17,032 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-19 04:28:14,314 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-19 04:29:11,592 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-19 04:30:09,236 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-19 04:31:06,591 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-19 04:32:03,848 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-19 04:33:01,211 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-19 04:33:58,638 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-19 04:34:55,943 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-19 04:35:53,283 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-19 04:36:50,573 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-19 04:37:47,940 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-19 04:38:45,195 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-19 04:39:42,595 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-19 04:40:39,947 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-19 04:41:37,324 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://192.168.0.115:8080/api/playlists/user/priya
+2025-04-19 04:42:15,113 - media_player - INFO - Received interrupt, shutting down
+2025-04-19 04:42:15,114 - media_player - INFO - Stopping media player application
+2025-04-19 04:42:15,114 - media_player - INFO - Application stopped
+2025-04-19 04:42:19,227 - media_player - INFO - Loaded configuration from config.json
+2025-04-19 04:42:19,227 - media_player - INFO - Loaded existing auth token
+2025-04-19 04:42:19,228 - media_player - INFO - Starting media player application
+2025-04-19 04:42:19,228 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-19 04:42:19,240 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-19 04:42:19,278 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 04:42:19,279 - media_player - INFO - Saved configuration to config.json
+2025-04-19 04:42:19,279 - media_player - INFO - Selected playlist: Updated Test Playlist (6800c88b81a7201d228802c8)
+2025-04-19 04:42:19,353 - media_player - INFO - Retrieved 1 items from playlist 6800c88b81a7201d228802c8
+2025-04-19 04:42:19,426 - media_player - ERROR - Failed to download content: 400 Client Error:  for url: http://192.168.0.115:8080/api/content/6800c6d081a7201d228802c7/stream
+2025-04-19 04:42:19,427 - media_player - ERROR - No content found in playlist 6800c88b81a7201d228802c8
+2025-04-19 04:43:16,533 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 04:43:16,533 - media_player - INFO - Playlist has been updated, reloading content
+2025-04-19 04:43:16,565 - media_player - INFO - Retrieved 1 items from playlist 6800c88b81a7201d228802c8
+2025-04-19 04:43:16,618 - media_player - ERROR - Failed to download content: 400 Client Error:  for url: http://192.168.0.115:8080/api/content/6800c6d081a7201d228802c7/stream
+2025-04-19 04:43:16,619 - media_player - ERROR - No content found in playlist 6800c88b81a7201d228802c8
+2025-04-19 04:43:16,619 - media_player - INFO - Saved configuration to config.json
+2025-04-19 04:44:14,045 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 04:45:11,352 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 04:46:08,573 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 04:47:05,914 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 04:48:01,900 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 04:48:59,234 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 04:49:56,491 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 04:50:53,801 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 04:51:51,030 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 04:52:49,583 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 04:53:50,413 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 04:54:47,965 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 04:55:45,199 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 04:56:29,313 - media_player - INFO - Received interrupt, shutting down
+2025-04-19 04:56:29,313 - media_player - INFO - Stopping media player application
+2025-04-19 04:56:29,314 - media_player - INFO - Application stopped
+2025-04-19 04:56:31,539 - media_player - INFO - Loaded configuration from config.json
+2025-04-19 04:56:31,540 - media_player - INFO - Loaded existing auth token
+2025-04-19 04:56:31,540 - media_player - INFO - Starting media player application
+2025-04-19 04:56:31,540 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-19 04:56:31,548 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-19 04:56:31,570 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 04:56:31,583 - media_player - INFO - Retrieved 1 items from playlist 6800c88b81a7201d228802c8
+2025-04-19 04:56:31,614 - media_player - ERROR - Failed to download content: 400 Client Error:  for url: http://192.168.0.115:8080/api/content/6800c6d081a7201d228802c7/stream
+2025-04-19 04:56:31,615 - media_player - ERROR - No content found in playlist 6800c88b81a7201d228802c8
+2025-04-19 04:57:28,788 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 04:57:46,300 - media_player - INFO - Received interrupt, shutting down
+2025-04-19 04:57:46,301 - media_player - INFO - Stopping media player application
+2025-04-19 04:57:46,301 - media_player - INFO - Application stopped
+2025-04-19 04:57:49,626 - media_player - INFO - Loaded configuration from config.json
+2025-04-19 04:57:49,626 - media_player - INFO - Loaded existing auth token
+2025-04-19 04:57:49,631 - media_player - INFO - Starting media player application
+2025-04-19 04:57:49,632 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-19 04:57:49,639 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-19 04:57:49,666 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 04:57:49,688 - media_player - INFO - Retrieved 1 items from playlist 6800c88b81a7201d228802c8
+2025-04-19 04:57:49,724 - media_player - ERROR - Failed to download content: 400 Client Error:  for url: http://192.168.0.115:8080/api/content/6800c6d081a7201d228802c7/stream
+2025-04-19 04:57:49,725 - media_player - ERROR - No content found in playlist 6800c88b81a7201d228802c8
+2025-04-19 04:58:46,976 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 04:59:44,198 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 05:00:41,462 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 05:01:39,250 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 05:02:36,582 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 05:03:34,045 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 05:04:31,537 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 05:05:29,042 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 05:06:26,239 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 05:07:23,543 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 05:08:20,749 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 05:09:17,869 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 05:10:15,067 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 05:11:12,355 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 05:12:09,719 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 05:12:26,951 - media_player - INFO - Received interrupt, shutting down
+2025-04-19 05:12:26,952 - media_player - INFO - Stopping media player application
+2025-04-19 05:12:26,953 - media_player - INFO - Application stopped
+2025-04-19 05:12:27,953 - media_player - INFO - Loaded configuration from config.json
+2025-04-19 05:12:27,953 - media_player - INFO - Starting media player application
+2025-04-19 05:12:27,953 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-19 05:12:27,962 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-19 05:12:27,962 - media_player - INFO - No auth token, logging in
+2025-04-19 05:12:28,065 - media_player - INFO - Saved configuration to config.json
+2025-04-19 05:12:28,067 - media_player - INFO - Saved configuration to config.json
+2025-04-19 05:12:28,070 - media_player - INFO - Saved configuration to config.json
+2025-04-19 05:12:28,070 - media_player - INFO - Logged in as user: priya
+2025-04-19 05:12:28,071 - media_player - INFO - Device not registered, registering
+2025-04-19 05:12:28,092 - media_player - ERROR - Device registration failed: 404 Client Error:  for url: http://192.168.0.115:8080/api/devices/user/priya
+2025-04-19 05:12:28,092 - media_player - ERROR - Authentication failed, exiting
+2025-04-19 05:12:36,468 - media_player - INFO - Loaded configuration from config.json
+2025-04-19 05:12:36,468 - media_player - INFO - Loaded existing auth token
+2025-04-19 05:12:36,469 - media_player - INFO - Starting media player application
+2025-04-19 05:12:36,469 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-19 05:12:36,477 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-19 05:12:36,477 - media_player - INFO - Device not registered, registering
+2025-04-19 05:12:36,497 - media_player - ERROR - Device registration failed: 404 Client Error:  for url: http://192.168.0.115:8080/api/devices/user/priya
+2025-04-19 05:12:36,498 - media_player - ERROR - Authentication failed, exiting
+2025-04-19 05:14:22,035 - media_player - INFO - Loaded configuration from config.json
+2025-04-19 05:14:22,035 - media_player - INFO - Loaded existing auth token
+2025-04-19 05:14:22,035 - media_player - INFO - Starting media player application
+2025-04-19 05:14:22,035 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-19 05:14:22,043 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-19 05:14:22,073 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 05:14:22,094 - media_player - INFO - Retrieved 1 items from playlist 6800c88b81a7201d228802c8
+2025-04-19 05:14:22,115 - media_player - ERROR - Failed to download content: 400 Client Error:  for url: http://192.168.0.115:8080/api/content/6800c6d081a7201d228802c7/stream
+2025-04-19 05:14:22,115 - media_player - ERROR - No content found in playlist 6800c88b81a7201d228802c8
+2025-04-19 05:15:19,441 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 05:16:16,581 - media_player - INFO - Retrieved 3 playlists
+2025-04-19 05:17:13,701 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:17:32,370 - media_player - INFO - Received interrupt, shutting down
+2025-04-19 05:17:32,373 - media_player - INFO - Stopping media player application
+2025-04-19 05:17:32,374 - media_player - INFO - Application stopped
+2025-04-19 05:17:41,646 - media_player - INFO - Loaded configuration from config.json
+2025-04-19 05:17:41,646 - media_player - INFO - Loaded existing auth token
+2025-04-19 05:17:41,647 - media_player - INFO - Starting media player application
+2025-04-19 05:17:41,647 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-19 05:17:41,664 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-19 05:17:41,695 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:17:41,709 - media_player - INFO - Retrieved 1 items from playlist 6800c88b81a7201d228802c8
+2025-04-19 05:17:41,737 - media_player - ERROR - Failed to download content: 400 Client Error:  for url: http://192.168.0.115:8080/api/content/6800c6d081a7201d228802c7/stream
+2025-04-19 05:17:41,738 - media_player - ERROR - No content found in playlist 6800c88b81a7201d228802c8
+2025-04-19 05:18:39,068 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:19:10,405 - media_player - INFO - Received interrupt, shutting down
+2025-04-19 05:19:10,406 - media_player - INFO - Stopping media player application
+2025-04-19 05:19:10,406 - media_player - INFO - Application stopped
+2025-04-19 05:19:12,115 - media_player - INFO - Loaded configuration from config.json
+2025-04-19 05:19:12,116 - media_player - INFO - Loaded existing auth token
+2025-04-19 05:19:12,116 - media_player - INFO - Starting media player application
+2025-04-19 05:19:12,116 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-19 05:19:12,135 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-19 05:19:12,158 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:19:12,171 - media_player - INFO - Retrieved 1 items from playlist 6800c88b81a7201d228802c8
+2025-04-19 05:19:12,198 - media_player - ERROR - Failed to download content: 400 Client Error:  for url: http://192.168.0.115:8080/api/content/6800c6d081a7201d228802c7/stream
+2025-04-19 05:19:12,199 - media_player - ERROR - No content found in playlist 6800c88b81a7201d228802c8
+2025-04-19 05:19:38,446 - media_player - INFO - Received interrupt, shutting down
+2025-04-19 05:19:38,447 - media_player - INFO - Stopping media player application
+2025-04-19 05:19:38,448 - media_player - INFO - Application stopped
+2025-04-19 05:28:18,389 - media_player - INFO - Loaded configuration from config.json
+2025-04-19 05:28:18,389 - media_player - INFO - Loaded existing auth token
+2025-04-19 05:28:18,390 - media_player - INFO - Starting media player application
+2025-04-19 05:28:18,390 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-19 05:28:18,397 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-19 05:28:18,448 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:28:18,463 - media_player - INFO - Retrieved 1 items from playlist 6800c88b81a7201d228802c8
+2025-04-19 05:28:18,499 - media_player - ERROR - Failed to download content: 400 Client Error:  for url: http://192.168.0.115:8080/api/content/6800c6d081a7201d228802c7/stream
+2025-04-19 05:28:18,499 - media_player - ERROR - No content found in playlist 6800c88b81a7201d228802c8
+2025-04-19 05:29:15,785 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:30:13,216 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:31:10,800 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:32:08,094 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:33:05,661 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:34:03,426 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:35:00,651 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:35:58,268 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:36:55,323 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:37:52,497 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:38:49,876 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:39:47,171 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:40:44,427 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:41:41,709 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:42:38,970 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:43:36,466 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:44:33,813 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:45:31,089 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:46:28,356 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:47:25,732 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:48:22,986 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:49:20,180 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:50:17,410 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:51:13,164 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:52:10,526 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 05:53:07,779 - media_player - INFO - Retrieved 1 playlists
+2025-04-19 06:10:10,242 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='192.168.0.115', port=8080): Read timed out. (read timeout=None)
+2025-04-19 06:13:19,635 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='192.168.0.115', port=8080): Max retries exceeded with url: /api/playlists/user/680094adfe7bc91d70997491 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f1b52c78410>, 'Connection to 192.168.0.115 timed out. (connect timeout=None)'))
+2025-04-19 06:23:34,202 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='192.168.0.115', port=8080): Max retries exceeded with url: /api/playlists/user/680094adfe7bc91d70997491 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f1b52c785f0>, 'Connection to 192.168.0.115 timed out. (connect timeout=None)'))
+2025-04-19 07:03:51,063 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='192.168.0.115', port=8080): Max retries exceeded with url: /api/playlists/user/680094adfe7bc91d70997491 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f1b52c789b0>, 'Connection to 192.168.0.115 timed out. (connect timeout=None)'))
+2025-04-19 07:07:00,481 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='192.168.0.115', port=8080): Max retries exceeded with url: /api/playlists/user/680094adfe7bc91d70997491 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f1b52c78d70>, 'Connection to 192.168.0.115 timed out. (connect timeout=None)'))
+2025-04-19 07:10:09,896 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='192.168.0.115', port=8080): Max retries exceeded with url: /api/playlists/user/680094adfe7bc91d70997491 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f1b52c79130>, 'Connection to 192.168.0.115 timed out. (connect timeout=None)'))
+2025-04-19 07:13:19,311 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='192.168.0.115', port=8080): Max retries exceeded with url: /api/playlists/user/680094adfe7bc91d70997491 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f1b52c794f0>, 'Connection to 192.168.0.115 timed out. (connect timeout=None)'))
+2025-04-19 07:15:23,578 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='192.168.0.115', port=8080): Max retries exceeded with url: /api/playlists/user/680094adfe7bc91d70997491 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b52c798b0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2025-04-19 07:17:04,698 - media_player - INFO - Received interrupt, shutting down
+2025-04-19 07:17:04,701 - media_player - INFO - Stopping media player application
+2025-04-19 07:17:04,703 - media_player - INFO - Application stopped
+2025-04-19 07:29:00,695 - media_player - INFO - Loaded configuration from config.json
+2025-04-19 07:29:00,696 - media_player - INFO - Loaded existing auth token
+2025-04-19 07:29:00,696 - media_player - INFO - Starting media player application
+2025-04-19 07:29:00,696 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-19 07:29:00,728 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-19 07:31:07,327 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='192.168.0.115', port=8080): Max retries exceeded with url: /api/playlists/user/680094adfe7bc91d70997491 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f8c9f15fe00>, 'Connection to 192.168.0.115 timed out. (connect timeout=None)'))
+2025-04-19 07:31:07,328 - media_player - WARNING - No playlists available
+2025-04-19 07:33:15,463 - media_player - ERROR - Failed to get playlist contents: HTTPConnectionPool(host='192.168.0.115', port=8080): Max retries exceeded with url: /api/playlists/6800c88b81a7201d228802c8/contents (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f8c9ea90260>, 'Connection to 192.168.0.115 timed out. (connect timeout=None)'))
+2025-04-19 07:33:15,463 - media_player - ERROR - No content found in playlist 6800c88b81a7201d228802c8
+2025-04-19 07:34:14,443 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='192.168.0.115', port=8080): Max retries exceeded with url: /api/playlists/user/680094adfe7bc91d70997491 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f8c9ea905f0>, 'Connection to 192.168.0.115 timed out. (connect timeout=None)'))
+2025-04-19 07:37:20,058 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='192.168.0.115', port=8080): Max retries exceeded with url: /api/playlists/user/680094adfe7bc91d70997491 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f8c9ea90950>, 'Connection to 192.168.0.115 timed out. (connect timeout=None)'))
+2025-04-19 07:37:53,178 - media_player - INFO - Received interrupt, shutting down
+2025-04-19 07:37:53,180 - media_player - INFO - Stopping media player application
+2025-04-19 07:37:53,180 - media_player - INFO - Application stopped
+2025-04-19 07:38:08,011 - media_player - INFO - Loaded configuration from config.json
+2025-04-19 07:38:08,012 - media_player - INFO - Loaded existing auth token
+2025-04-19 07:38:08,012 - media_player - INFO - Starting media player application
+2025-04-19 07:38:08,013 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-19 07:38:08,043 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-21 04:39:26,319 - media_player - INFO - Loaded configuration from config.json
+2025-04-21 04:39:26,319 - media_player - INFO - Auth token expired, will re-authenticate
+2025-04-21 04:39:26,320 - media_player - INFO - Starting media player application
+2025-04-21 04:39:26,320 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-21 04:39:26,337 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-21 04:39:26,390 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='192.168.0.115', port=8080): Max retries exceeded with url: /api/playlists/user/680094adfe7bc91d70997491 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f99bb3d7470>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-21 04:39:26,390 - media_player - WARNING - No playlists available
+2025-04-21 04:39:26,415 - media_player - ERROR - Failed to get playlist contents: HTTPConnectionPool(host='192.168.0.115', port=8080): Max retries exceeded with url: /api/playlists/6800c88b81a7201d228802c8/contents (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f99ba224050>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-21 04:39:26,416 - media_player - ERROR - No content found in playlist 6800c88b81a7201d228802c8
+2025-04-21 04:40:20,459 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='192.168.0.115', port=8080): Max retries exceeded with url: /api/playlists/user/680094adfe7bc91d70997491 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f99ba224380>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-21 04:41:16,608 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='192.168.0.115', port=8080): Max retries exceeded with url: /api/playlists/user/680094adfe7bc91d70997491 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f99ba2246b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-21 04:42:13,527 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='192.168.0.115', port=8080): Max retries exceeded with url: /api/playlists/user/680094adfe7bc91d70997491 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f99ba2249e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-21 04:43:15,571 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='192.168.0.115', port=8080): Max retries exceeded with url: /api/playlists/user/680094adfe7bc91d70997491 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f99ba224d10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-21 04:43:21,678 - media_player - INFO - Received interrupt, shutting down
+2025-04-21 04:43:21,678 - media_player - INFO - Stopping media player application
+2025-04-21 04:43:21,679 - media_player - INFO - Application stopped
+2025-04-22 06:32:00,398 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 06:32:00,399 - media_player - INFO - Starting media player application
+2025-04-22 06:32:00,399 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 06:32:00,425 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 06:32:00,425 - media_player - INFO - No auth token, logging in
+2025-04-22 06:32:00,587 - media_player - ERROR - Login failed: 500 Server Error:  for url: http://localhost:8080/api/auth/login
+2025-04-22 06:32:00,587 - media_player - ERROR - Authentication failed, exiting
+2025-04-22 06:36:18,160 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 06:36:18,161 - media_player - INFO - Starting media player application
+2025-04-22 06:36:18,161 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 06:36:18,177 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 06:36:18,177 - media_player - INFO - No auth token, logging in
+2025-04-22 06:36:18,295 - media_player - INFO - Saved configuration to config.json
+2025-04-22 06:36:18,295 - media_player - INFO - Saved configuration to config.json
+2025-04-22 06:36:18,296 - media_player - INFO - Saved configuration to config.json
+2025-04-22 06:36:18,296 - media_player - INFO - Logged in as user: aishu
+2025-04-22 06:36:18,296 - media_player - INFO - Device not registered, registering
+2025-04-22 06:36:18,357 - media_player - ERROR - Device registration failed: 404 Client Error:  for url: http://localhost:8080/api/devices/user/aishu
+2025-04-22 06:36:18,357 - media_player - ERROR - Authentication failed, exiting
+2025-04-22 06:47:39,776 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 06:47:39,776 - media_player - INFO - Loaded existing auth token
+2025-04-22 06:47:39,776 - media_player - INFO - Starting media player application
+2025-04-22 06:47:39,776 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 06:47:39,788 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 06:47:39,788 - media_player - INFO - Device not registered, registering
+2025-04-22 06:47:39,861 - media_player - INFO - Saved configuration to config.json
+2025-04-22 06:47:39,861 - media_player - INFO - Registered device: Test Device (68073b8bf08f2b78d7c54980)
+2025-04-22 06:47:39,893 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 06:47:39,893 - media_player - INFO - Saved configuration to config.json
+2025-04-22 06:47:39,893 - media_player - INFO - Selected playlist: Playlist_list (6805dabcf08f2b78d7c5497e)
+2025-04-22 06:47:39,953 - media_player - INFO - Retrieved 0 items from playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 06:47:39,953 - media_player - ERROR - No content found in playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 06:48:40,000 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 06:48:40,001 - media_player - INFO - Playlist has been updated, reloading content
+2025-04-22 06:48:40,018 - media_player - INFO - Retrieved 0 items from playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 06:48:40,018 - media_player - ERROR - No content found in playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 06:48:40,019 - media_player - INFO - Saved configuration to config.json
+2025-04-22 06:49:40,078 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 06:50:40,142 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 06:51:40,236 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 06:52:40,331 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 06:53:40,461 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 06:54:40,570 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 06:55:40,683 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 06:56:40,751 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 06:57:40,972 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 06:58:41,164 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 06:59:41,410 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:00:41,562 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:01:41,698 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:02:41,830 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:03:41,883 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:04:42,060 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:05:42,132 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:06:42,257 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:07:42,396 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:08:42,490 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:09:42,571 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:10:42,706 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:11:42,786 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:12:42,827 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:13:42,970 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:14:43,074 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:15:43,292 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:16:43,407 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:17:43,541 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:18:44,187 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:19:44,315 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:20:44,448 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:21:44,595 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:22:44,698 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:23:44,829 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:24:44,916 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:25:45,019 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:26:45,088 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:27:45,176 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:28:45,290 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:29:45,454 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:30:45,615 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:31:45,727 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:32:45,868 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:33:46,001 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:34:46,157 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 07:35:46,339 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 08:49:42,363 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 08:50:42,510 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 08:51:42,634 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 08:52:42,742 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 08:53:42,891 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 08:54:43,025 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 08:55:43,147 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 08:56:42,797 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 08:57:43,400 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 08:58:43,737 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 08:59:43,873 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:00:44,045 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:01:44,147 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:02:44,297 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:03:44,434 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:04:44,521 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:05:44,778 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:06:44,924 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:07:45,045 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:08:45,189 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:09:45,403 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:10:45,516 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:11:45,718 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:12:45,888 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:13:46,044 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:14:46,252 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:15:46,425 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:16:46,569 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:17:46,904 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:18:47,047 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:19:47,139 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:20:47,306 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:21:47,483 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:22:47,672 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 09:23:28,086 - media_player - INFO - Received interrupt, shutting down
+2025-04-22 09:23:28,096 - media_player - INFO - Stopping media player application
+2025-04-22 09:23:28,100 - media_player - INFO - Application stopped
+2025-04-22 10:13:55,238 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 10:13:55,242 - media_player - INFO - Loaded existing auth token
+2025-04-22 10:13:55,242 - media_player - INFO - Starting media player application
+2025-04-22 10:13:55,243 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 10:13:55,366 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 10:13:55,756 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:13:55,873 - media_player - INFO - Retrieved 0 items from playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 10:13:55,874 - media_player - ERROR - No content found in playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 10:14:55,904 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:15:56,324 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:16:56,532 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:17:56,704 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:18:56,858 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:19:56,991 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:20:57,102 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:21:57,232 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:22:57,353 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:23:57,441 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:24:57,585 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:25:57,721 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:26:57,802 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:27:57,999 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:28:58,146 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:29:58,274 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:30:58,436 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:31:58,616 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:32:58,710 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:33:58,885 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:34:59,007 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:35:59,084 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:36:53,856 - media_player - INFO - Received interrupt, shutting down
+2025-04-22 10:36:53,856 - media_player - INFO - Stopping media player application
+2025-04-22 10:36:53,856 - media_player - INFO - Application stopped
+2025-04-22 10:37:31,175 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 10:37:31,176 - media_player - INFO - Loaded existing auth token
+2025-04-22 10:37:31,176 - media_player - INFO - Starting media player application
+2025-04-22 10:37:31,176 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 10:37:31,186 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 10:37:31,199 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:37:31,209 - media_player - INFO - Retrieved 0 items from playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 10:37:31,209 - media_player - ERROR - No content found in playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 10:38:31,355 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:39:31,506 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:40:31,667 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:41:31,819 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:42:31,971 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:43:32,119 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:44:32,289 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:45:32,457 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:46:32,605 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:47:32,652 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:48:32,809 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:49:32,867 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:50:33,016 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:51:33,144 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:52:33,295 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:53:33,474 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:54:33,695 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:55:33,933 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:56:34,088 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:57:34,183 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:58:34,361 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 10:59:34,574 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:00:34,787 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:01:34,979 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:02:35,174 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:03:35,366 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:04:35,594 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:05:35,792 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:06:35,980 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:07:36,163 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:08:36,364 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:09:36,560 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:10:36,739 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:11:36,908 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:12:37,016 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:13:37,224 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:14:37,395 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:15:37,515 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:16:11,947 - media_player - INFO - Received interrupt, shutting down
+2025-04-22 11:16:11,948 - media_player - INFO - Stopping media player application
+2025-04-22 11:16:11,948 - media_player - INFO - Application stopped
+2025-04-22 11:16:18,523 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 11:16:18,524 - media_player - INFO - Loaded existing auth token
+2025-04-22 11:16:18,524 - media_player - INFO - Starting media player application
+2025-04-22 11:16:18,524 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 11:16:18,539 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 11:16:18,556 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:16:18,568 - media_player - INFO - Retrieved 0 items from playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 11:16:18,568 - media_player - ERROR - No content found in playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 11:17:18,727 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:18:18,902 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:19:19,129 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:20:19,289 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:21:19,461 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:22:19,626 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:23:19,798 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:24:19,945 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:25:20,099 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:26:20,294 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:27:20,421 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:28:20,451 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:29:20,610 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:30:20,534 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:31:20,716 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:32:20,889 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:33:21,067 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:34:21,246 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:35:21,371 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:36:21,503 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 11:36:49,708 - media_player - INFO - Received interrupt, shutting down
+2025-04-22 11:36:49,709 - media_player - INFO - Stopping media player application
+2025-04-22 11:36:49,709 - media_player - INFO - Application stopped
+2025-04-22 11:36:54,674 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 11:36:54,675 - media_player - INFO - Loaded existing auth token
+2025-04-22 11:36:54,675 - media_player - INFO - Starting media player application
+2025-04-22 11:36:54,675 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 11:36:54,686 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 11:37:02,513 - media_player - ERROR - Failed to get playlists: Expecting value: line 1 column 1 (char 0)
+2025-04-22 11:37:02,513 - media_player - WARNING - No playlists available
+2025-04-22 11:37:09,219 - media_player - ERROR - Failed to get playlist contents: Expecting value: line 1 column 1 (char 0)
+2025-04-22 11:37:09,219 - media_player - ERROR - No content found in playlist NEW_PLAYLIST_ID
+2025-04-22 11:38:21,172 - media_player - ERROR - Failed to get playlists: Expecting value: line 1 column 1 (char 0)
+2025-04-22 11:39:31,556 - media_player - ERROR - Failed to get playlists: Expecting value: line 1 column 1 (char 0)
+2025-04-22 11:40:39,002 - media_player - ERROR - Failed to get playlists: Expecting value: line 1 column 1 (char 0)
+2025-04-22 11:41:46,616 - media_player - ERROR - Failed to get playlists: Expecting value: line 1 column 1 (char 0)
+2025-04-22 11:42:55,357 - media_player - ERROR - Failed to get playlists: Expecting value: line 1 column 1 (char 0)
+2025-04-22 11:44:14,812 - media_player - ERROR - Failed to get playlists: Expecting value: line 1 column 1 (char 0)
+2025-04-22 11:45:23,897 - media_player - ERROR - Failed to get playlists: Expecting value: line 1 column 1 (char 0)
+2025-04-22 11:46:31,163 - media_player - ERROR - Failed to get playlists: Expecting value: line 1 column 1 (char 0)
+2025-04-22 11:47:39,590 - media_player - ERROR - Failed to get playlists: Expecting value: line 1 column 1 (char 0)
+2025-04-22 12:13:49,250 - media_player - ERROR - Failed to get playlists: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-04-22 12:14:52,520 - media_player - ERROR - Failed to get playlists: Expecting value: line 1 column 1 (char 0)
+2025-04-22 12:15:56,785 - media_player - ERROR - Failed to get playlists: Expecting value: line 1 column 1 (char 0)
+2025-04-22 12:16:59,341 - media_player - ERROR - Failed to get playlists: Expecting value: line 1 column 1 (char 0)
+2025-04-22 12:18:03,974 - media_player - ERROR - Failed to get playlists: Expecting value: line 1 column 1 (char 0)
+2025-04-22 12:18:29,712 - media_player - INFO - Received interrupt, shutting down
+2025-04-22 12:18:29,712 - media_player - INFO - Stopping media player application
+2025-04-22 12:18:29,713 - media_player - INFO - Application stopped
+2025-04-22 12:18:32,795 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 12:18:32,795 - media_player - INFO - Loaded existing auth token
+2025-04-22 12:18:32,795 - media_player - INFO - Starting media player application
+2025-04-22 12:18:32,796 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 12:18:32,804 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 12:18:32,825 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 12:18:32,835 - media_player - INFO - Retrieved 0 items from playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 12:18:32,835 - media_player - ERROR - No content found in playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 12:19:33,003 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 12:20:33,186 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 12:21:33,367 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 12:22:33,580 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 12:23:33,921 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 12:24:32,592 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 12:25:34,931 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 12:26:35,198 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 12:27:35,373 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 12:28:35,573 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 12:29:35,789 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 12:29:53,277 - media_player - INFO - Received interrupt, shutting down
+2025-04-22 12:29:53,278 - media_player - INFO - Stopping media player application
+2025-04-22 12:29:53,279 - media_player - INFO - Application stopped
+2025-04-22 12:29:56,415 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 12:29:56,416 - media_player - INFO - Loaded existing auth token
+2025-04-22 12:29:56,416 - media_player - INFO - Starting media player application
+2025-04-22 12:29:56,417 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 12:29:56,450 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 12:29:56,483 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 12:29:56,510 - media_player - INFO - Retrieved 0 items from playlist 68078b57f08f2b78d7c54983
+2025-04-22 12:29:56,510 - media_player - ERROR - No content found in playlist 68078b57f08f2b78d7c54983
+2025-04-22 12:30:38,600 - media_player - INFO - Received interrupt, shutting down
+2025-04-22 12:30:38,601 - media_player - INFO - Stopping media player application
+2025-04-22 12:30:38,601 - media_player - INFO - Application stopped
+2025-04-22 12:30:40,918 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 12:30:40,919 - media_player - INFO - Loaded existing auth token
+2025-04-22 12:30:40,919 - media_player - INFO - Starting media player application
+2025-04-22 12:30:40,919 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 12:30:40,937 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 12:30:40,965 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 12:30:41,000 - media_player - ERROR - Failed to get playlist contents: 404 Client Error:  for url: http://localhost:8080/api/playlists/68075fbaf08f2b78d7c54982/contents
+2025-04-22 12:30:41,000 - media_player - ERROR - No content found in playlist 68075fbaf08f2b78d7c54982
+2025-04-22 12:31:41,543 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 12:31:41,544 - media_player - INFO - Current playlist 68075fbaf08f2b78d7c54982 no longer exists, switching to 6805dabcf08f2b78d7c5497e
+2025-04-22 12:31:41,545 - media_player - INFO - Saved configuration to config.json
+2025-04-22 12:31:41,599 - media_player - INFO - Retrieved 0 items from playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 12:31:41,599 - media_player - ERROR - No content found in playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 12:32:41,979 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 12:33:42,113 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 12:34:42,355 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 12:35:42,571 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 12:36:42,738 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 12:37:42,906 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 12:38:43,071 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 12:39:43,270 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 12:40:43,430 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 12:41:17,929 - media_player - INFO - Received interrupt, shutting down
+2025-04-22 12:41:17,930 - media_player - INFO - Stopping media player application
+2025-04-22 12:41:17,930 - media_player - INFO - Application stopped
+2025-04-22 13:01:46,858 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 13:01:46,860 - media_player - INFO - Starting media player application
+2025-04-22 13:01:46,860 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 13:01:46,886 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 13:01:46,887 - media_player - INFO - No auth token, logging in
+2025-04-22 13:01:47,228 - media_player - INFO - Saved configuration to config.json
+2025-04-22 13:01:47,229 - media_player - INFO - Saved configuration to config.json
+2025-04-22 13:01:47,230 - media_player - INFO - Saved configuration to config.json
+2025-04-22 13:01:47,231 - media_player - INFO - Logged in as user: aishu
+2025-04-22 13:01:47,231 - media_player - INFO - Device not registered, registering
+2025-04-22 13:01:47,329 - media_player - INFO - Device already registered, retrieving device info
+2025-04-22 13:01:47,412 - media_player - INFO - Saved configuration to config.json
+2025-04-22 13:01:47,412 - media_player - INFO - Retrieved device: Test Device (68073b8bf08f2b78d7c54980)
+2025-04-22 13:01:47,438 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:01:47,438 - media_player - WARNING - No playlists available
+2025-04-22 13:02:47,500 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:03:47,648 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:04:47,807 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:05:09,489 - media_player - INFO - Received interrupt, shutting down
+2025-04-22 13:05:09,490 - media_player - INFO - Stopping media player application
+2025-04-22 13:05:09,490 - media_player - INFO - Application stopped
+2025-04-22 13:05:12,186 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 13:05:12,186 - media_player - INFO - Loaded existing auth token
+2025-04-22 13:05:12,187 - media_player - INFO - Starting media player application
+2025-04-22 13:05:12,187 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 13:05:12,209 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 13:05:12,237 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:05:12,238 - media_player - WARNING - No playlists available
+2025-04-22 13:06:12,412 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:06:31,128 - media_player - INFO - Received interrupt, shutting down
+2025-04-22 13:06:31,129 - media_player - INFO - Stopping media player application
+2025-04-22 13:06:31,129 - media_player - INFO - Application stopped
+2025-04-22 13:06:33,968 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 13:06:33,968 - media_player - INFO - Loaded existing auth token
+2025-04-22 13:06:33,969 - media_player - INFO - Starting media player application
+2025-04-22 13:06:33,969 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 13:06:33,996 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 13:06:34,034 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:06:34,035 - media_player - WARNING - No playlists available
+2025-04-22 13:07:34,149 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:08:34,308 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:09:34,464 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:10:34,558 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:10:38,674 - media_player - INFO - Received interrupt, shutting down
+2025-04-22 13:10:38,675 - media_player - INFO - Stopping media player application
+2025-04-22 13:10:38,677 - media_player - INFO - Application stopped
+2025-04-22 13:38:50,330 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 13:38:50,333 - media_player - INFO - Loaded existing auth token
+2025-04-22 13:38:50,333 - media_player - INFO - Starting media player application
+2025-04-22 13:38:50,334 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 13:38:50,370 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 13:38:50,442 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 13:38:50,446 - media_player - INFO - Saved configuration to config.json
+2025-04-22 13:38:50,446 - media_player - INFO - Selected playlist: Playlist_list (6805dabcf08f2b78d7c5497e)
+2025-04-22 13:38:50,479 - media_player - INFO - Retrieved 0 items from playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 13:38:50,479 - media_player - ERROR - No content found in playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 13:39:50,761 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 13:39:50,764 - media_player - INFO - Playlist has been updated, reloading content
+2025-04-22 13:39:50,811 - media_player - INFO - Retrieved 0 items from playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 13:39:50,811 - media_player - ERROR - No content found in playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 13:39:50,813 - media_player - INFO - Saved configuration to config.json
+2025-04-22 13:40:50,889 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 13:41:29,562 - media_player - INFO - Received interrupt, shutting down
+2025-04-22 13:41:29,563 - media_player - INFO - Stopping media player application
+2025-04-22 13:41:29,563 - media_player - INFO - Application stopped
+2025-04-22 13:41:34,328 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 13:41:34,329 - media_player - INFO - Starting media player application
+2025-04-22 13:41:34,329 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 13:41:34,363 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 13:41:34,364 - media_player - INFO - No auth token, logging in
+2025-04-22 13:41:34,683 - media_player - INFO - Saved configuration to config.json
+2025-04-22 13:41:34,714 - media_player - INFO - Saved configuration to config.json
+2025-04-22 13:41:34,715 - media_player - INFO - Saved configuration to config.json
+2025-04-22 13:41:34,716 - media_player - INFO - Logged in as user: aishu
+2025-04-22 13:41:34,716 - media_player - INFO - Device not registered, registering
+2025-04-22 13:41:34,758 - media_player - INFO - Device already registered, retrieving device info
+2025-04-22 13:41:34,796 - media_player - INFO - Saved configuration to config.json
+2025-04-22 13:41:34,796 - media_player - INFO - Retrieved device: Test Device (68073b8bf08f2b78d7c54980)
+2025-04-22 13:41:34,828 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:41:34,828 - media_player - WARNING - No playlists available
+2025-04-22 13:42:35,071 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:43:35,214 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:44:35,406 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:45:35,493 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:46:00,960 - media_player - INFO - Received interrupt, shutting down
+2025-04-22 13:46:00,961 - media_player - INFO - Stopping media player application
+2025-04-22 13:46:00,961 - media_player - INFO - Application stopped
+2025-04-22 13:46:07,385 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 13:46:07,386 - media_player - INFO - Loaded existing auth token
+2025-04-22 13:46:07,387 - media_player - INFO - Starting media player application
+2025-04-22 13:46:07,387 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 13:46:07,419 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 13:46:07,456 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:46:07,456 - media_player - WARNING - No playlists available
+2025-04-22 13:46:29,971 - media_player - INFO - Received interrupt, shutting down
+2025-04-22 13:46:30,003 - media_player - INFO - Stopping media player application
+2025-04-22 13:46:30,003 - media_player - INFO - Application stopped
+2025-04-22 13:46:35,560 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 13:46:35,561 - media_player - INFO - Starting media player application
+2025-04-22 13:46:35,562 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 13:46:35,592 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 13:46:35,593 - media_player - INFO - No auth token, logging in
+2025-04-22 13:46:35,892 - media_player - INFO - Saved configuration to config.json
+2025-04-22 13:46:35,893 - media_player - INFO - Saved configuration to config.json
+2025-04-22 13:46:35,894 - media_player - INFO - Saved configuration to config.json
+2025-04-22 13:46:35,894 - media_player - INFO - Logged in as user: aishu
+2025-04-22 13:46:35,895 - media_player - INFO - Device not registered, registering
+2025-04-22 13:46:35,922 - media_player - INFO - Device already registered, retrieving device info
+2025-04-22 13:46:35,946 - media_player - INFO - Saved configuration to config.json
+2025-04-22 13:46:35,947 - media_player - INFO - Retrieved device: Test Device (68073b8bf08f2b78d7c54980)
+2025-04-22 13:46:35,971 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:46:35,971 - media_player - WARNING - No playlists available
+2025-04-22 13:47:36,151 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:48:27,095 - media_player - INFO - Received interrupt, shutting down
+2025-04-22 13:48:27,095 - media_player - INFO - Stopping media player application
+2025-04-22 13:48:27,096 - media_player - INFO - Application stopped
+2025-04-22 13:48:29,304 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 13:48:29,305 - media_player - INFO - Starting media player application
+2025-04-22 13:48:29,305 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 13:48:29,331 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 13:48:29,331 - media_player - INFO - No auth token, logging in
+2025-04-22 13:48:29,562 - media_player - INFO - Saved configuration to config.json
+2025-04-22 13:48:29,563 - media_player - INFO - Saved configuration to config.json
+2025-04-22 13:48:29,565 - media_player - INFO - Saved configuration to config.json
+2025-04-22 13:48:29,565 - media_player - INFO - Logged in as user: aishu
+2025-04-22 13:48:29,565 - media_player - INFO - Device not registered, registering
+2025-04-22 13:48:29,590 - media_player - INFO - Device already registered, retrieving device info
+2025-04-22 13:48:29,615 - media_player - INFO - Saved configuration to config.json
+2025-04-22 13:48:29,615 - media_player - INFO - Retrieved device: Test Device (68073b8bf08f2b78d7c54980)
+2025-04-22 13:48:29,639 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:48:29,639 - media_player - WARNING - No playlists available
+2025-04-22 13:49:29,833 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:50:29,924 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:51:30,128 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:52:30,283 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:53:30,453 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:54:30,579 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:55:30,738 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:56:30,888 - media_player - ERROR - Failed to get playlists: 404 Client Error:  for url: http://localhost:8080/api/playlists/user/aishu
+2025-04-22 13:57:25,902 - media_player - INFO - Received interrupt, shutting down
+2025-04-22 13:57:25,903 - media_player - INFO - Stopping media player application
+2025-04-22 13:57:25,904 - media_player - INFO - Application stopped
+2025-04-22 14:00:05,541 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 14:00:05,544 - media_player - INFO - Loaded existing auth token
+2025-04-22 14:00:05,544 - media_player - INFO - Starting media player application
+2025-04-22 14:00:05,545 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 14:00:05,579 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 14:00:05,620 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 14:00:05,621 - media_player - INFO - Saved configuration to config.json
+2025-04-22 14:00:05,621 - media_player - INFO - Selected playlist: Playlist_list (6805dabcf08f2b78d7c5497e)
+2025-04-22 14:00:05,650 - media_player - INFO - Retrieved 0 items from playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 14:00:05,650 - media_player - ERROR - No content found in playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 14:01:05,776 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 14:01:05,778 - media_player - INFO - Playlist has been updated, reloading content
+2025-04-22 14:01:05,810 - media_player - INFO - Retrieved 0 items from playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 14:01:05,811 - media_player - ERROR - No content found in playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 14:01:05,811 - media_player - INFO - Saved configuration to config.json
+2025-04-22 14:02:06,033 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 14:03:06,310 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 14:04:06,579 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 14:04:43,143 - media_player - INFO - Received interrupt, shutting down
+2025-04-22 14:04:43,144 - media_player - INFO - Stopping media player application
+2025-04-22 14:04:43,144 - media_player - INFO - Application stopped
+2025-04-22 14:04:49,789 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 14:04:49,790 - media_player - INFO - Loaded existing auth token
+2025-04-22 14:04:49,790 - media_player - INFO - Starting media player application
+2025-04-22 14:04:49,791 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 14:04:49,821 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 14:04:49,856 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 14:04:49,879 - media_player - ERROR - Failed to get playlist contents: 404 Client Error:  for url: http://localhost:8080/api/playlists/6805dabcf08f2b78d7c5497e/contents
+2025-04-22 14:04:49,880 - media_player - ERROR - No content found in playlist 6805dabcf08f2b78d7c5497e
+2025-04-22 14:05:50,148 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 14:05:50,150 - media_player - INFO - Current playlist 6805dabcf08f2b78d7c5497e no longer exists, switching to 68078b57f08f2b78d7c54983
+2025-04-22 14:05:50,153 - media_player - INFO - Saved configuration to config.json
+2025-04-22 14:05:50,190 - media_player - INFO - Retrieved 0 items from playlist 68078b57f08f2b78d7c54983
+2025-04-22 14:05:50,190 - media_player - ERROR - No content found in playlist 68078b57f08f2b78d7c54983
+2025-04-22 14:06:50,395 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 14:07:50,544 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 14:08:50,762 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 14:09:51,007 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 14:10:51,263 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 14:11:51,507 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 14:12:51,658 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 14:13:51,811 - media_player - ERROR - Failed to get playlists: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-04-22 14:14:52,004 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6805d163f08f2b78d7c5497d (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1315e9c860>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-22 14:15:52,182 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6805d163f08f2b78d7c5497d (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1315e9cc80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-22 14:16:52,318 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6805d163f08f2b78d7c5497d (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1315e9d070>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-22 14:17:52,618 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6805d163f08f2b78d7c5497d (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1315e9d460>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-22 14:18:52,772 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6805d163f08f2b78d7c5497d (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1315e9d850>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-22 14:19:52,930 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6805d163f08f2b78d7c5497d (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1315e9dc40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-22 14:20:03,538 - media_player - INFO - Received interrupt, shutting down
+2025-04-22 14:20:03,538 - media_player - INFO - Stopping media player application
+2025-04-22 14:20:03,538 - media_player - INFO - Application stopped
+2025-04-22 14:22:36,682 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 14:22:36,682 - media_player - INFO - Starting media player application
+2025-04-22 14:22:36,682 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 14:22:36,710 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 14:22:36,711 - media_player - INFO - No auth token, logging in
+2025-04-22 14:22:37,396 - media_player - ERROR - Login failed: 500 Server Error:  for url: http://localhost:8080/api/auth/login
+2025-04-22 14:22:37,396 - media_player - ERROR - Authentication failed, exiting
+2025-04-22 14:43:58,197 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 14:43:58,200 - media_player - INFO - Starting media player application
+2025-04-22 14:43:58,201 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 14:43:58,247 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 14:43:58,247 - media_player - INFO - No auth token, logging in
+2025-04-22 14:43:58,482 - media_player - INFO - Saved configuration to config.json
+2025-04-22 14:43:58,483 - media_player - INFO - Saved configuration to config.json
+2025-04-22 14:45:00,960 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 14:45:00,961 - media_player - INFO - Loaded existing auth token
+2025-04-22 14:45:00,962 - media_player - INFO - Starting media player application
+2025-04-22 14:45:00,962 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 14:45:00,994 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 14:45:00,994 - media_player - INFO - No auth token, logging in
+2025-04-22 14:45:01,312 - media_player - INFO - Saved configuration to config.json
+2025-04-22 14:45:01,315 - media_player - INFO - Saved configuration to config.json
+2025-04-22 14:45:01,316 - media_player - INFO - Saved configuration to config.json
+2025-04-22 14:45:01,317 - media_player - INFO - Logged in as user: aishu
+2025-04-22 14:45:01,317 - media_player - INFO - Device not registered, registering
+2025-04-22 14:45:01,603 - media_player - INFO - Saved configuration to config.json
+2025-04-22 14:45:01,604 - media_player - INFO - Registered device: Test Device (6807ab6d41915a764f3afcd9)
+2025-04-22 14:45:01,704 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 14:45:01,704 - media_player - INFO - Saved configuration to config.json
+2025-04-22 14:45:01,705 - media_player - INFO - Selected playlist: Test Playlist (6807a75141915a764f3afcd6)
+2025-04-22 14:45:01,747 - media_player - INFO - Retrieved 0 items from playlist 6807a75141915a764f3afcd6
+2025-04-22 14:45:01,747 - media_player - ERROR - No content found in playlist 6807a75141915a764f3afcd6
+2025-04-22 14:45:02,833 - media_player - INFO - Received interrupt, shutting down
+2025-04-22 14:45:02,834 - media_player - INFO - Stopping media player application
+2025-04-22 14:45:02,834 - media_player - INFO - Application stopped
+2025-04-22 14:45:18,158 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 14:45:18,159 - media_player - INFO - Starting media player application
+2025-04-22 14:45:18,159 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 14:45:18,181 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 14:45:18,181 - media_player - INFO - No auth token, logging in
+2025-04-22 14:45:18,390 - media_player - INFO - Saved configuration to config.json
+2025-04-22 14:45:18,422 - media_player - INFO - Saved configuration to config.json
+2025-04-22 14:45:18,424 - media_player - INFO - Saved configuration to config.json
+2025-04-22 14:45:18,424 - media_player - INFO - Logged in as user: aishu
+2025-04-22 14:45:18,424 - media_player - INFO - Device not registered, registering
+2025-04-22 14:45:18,487 - media_player - INFO - Device already registered, retrieving device info
+2025-04-22 14:45:18,614 - media_player - INFO - Saved configuration to config.json
+2025-04-22 14:45:18,614 - media_player - INFO - Retrieved device: Test Device (6807ab6d41915a764f3afcd9)
+2025-04-22 14:45:18,685 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 14:45:18,686 - media_player - INFO - Saved configuration to config.json
+2025-04-22 14:45:18,687 - media_player - INFO - Selected playlist: Test Playlist (6807a75141915a764f3afcd6)
+2025-04-22 14:45:18,751 - media_player - INFO - Retrieved 0 items from playlist 6807a75141915a764f3afcd6
+2025-04-22 14:45:18,752 - media_player - ERROR - No content found in playlist 6807a75141915a764f3afcd6
+2025-04-22 14:46:18,886 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 14:46:18,887 - media_player - INFO - Playlist has been updated, reloading content
+2025-04-22 14:46:18,917 - media_player - INFO - Retrieved 0 items from playlist 6807a75141915a764f3afcd6
+2025-04-22 14:46:18,918 - media_player - ERROR - No content found in playlist 6807a75141915a764f3afcd6
+2025-04-22 14:46:18,918 - media_player - INFO - Saved configuration to config.json
+2025-04-22 14:47:19,188 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 14:48:19,443 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 14:49:19,774 - media_player - INFO - Retrieved 2 playlists
+2025-04-22 14:49:48,703 - media_player - INFO - Received interrupt, shutting down
+2025-04-22 14:49:48,704 - media_player - INFO - Stopping media player application
+2025-04-22 14:49:48,737 - media_player - INFO - Application stopped
+2025-04-22 14:50:56,081 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 14:50:56,083 - media_player - INFO - Loaded existing auth token
+2025-04-22 14:50:56,083 - media_player - INFO - Starting media player application
+2025-04-22 14:50:56,084 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 14:50:56,116 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 14:50:56,162 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 14:50:56,194 - media_player - INFO - Retrieved 0 items from playlist 6807a75141915a764f3afcd6
+2025-04-22 14:50:56,194 - media_player - ERROR - No content found in playlist 6807a75141915a764f3afcd6
+2025-04-22 14:51:56,406 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 14:52:56,617 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 14:53:56,898 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 14:54:57,126 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 14:55:57,390 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 14:56:57,619 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 14:57:57,899 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 14:58:58,103 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 14:59:58,342 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:00:58,607 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:01:58,990 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:02:59,244 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:03:59,463 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:04:59,629 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:05:59,821 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:07:00,088 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:08:00,304 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:09:00,538 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:10:00,720 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:11:00,908 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:12:01,092 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:13:01,261 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:14:01,463 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:15:01,665 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:16:01,902 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:17:02,175 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:18:02,412 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:18:56,312 - media_player - INFO - Received interrupt, shutting down
+2025-04-22 15:18:56,313 - media_player - INFO - Stopping media player application
+2025-04-22 15:18:56,313 - media_player - INFO - Application stopped
+2025-04-22 15:19:56,474 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 15:19:56,479 - media_player - INFO - Loaded existing auth token
+2025-04-22 15:19:56,480 - media_player - INFO - Starting media player application
+2025-04-22 15:19:56,481 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 15:19:56,533 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 15:19:56,623 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:19:56,711 - media_player - INFO - Retrieved 1 items from playlist 6807a75141915a764f3afcd6
+2025-04-22 15:19:56,913 - media_player - ERROR - Failed to download content: 400 Client Error:  for url: http://localhost:8080/api/content/6807aaa341915a764f3afcd8/stream
+2025-04-22 15:19:56,915 - media_player - ERROR - No content found in playlist 6807a75141915a764f3afcd6
+2025-04-22 15:20:03,824 - media_player - INFO - Received interrupt, shutting down
+2025-04-22 15:20:03,824 - media_player - INFO - Stopping media player application
+2025-04-22 15:20:03,825 - media_player - INFO - Application stopped
+2025-04-22 15:21:30,243 - media_player - INFO - Loaded configuration from config.json
+2025-04-22 15:21:30,245 - media_player - INFO - Starting media player application
+2025-04-22 15:21:30,245 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-22 15:21:30,292 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-22 15:21:30,292 - media_player - INFO - No auth token, logging in
+2025-04-22 15:21:30,579 - media_player - INFO - Saved configuration to config.json
+2025-04-22 15:21:30,610 - media_player - INFO - Saved configuration to config.json
+2025-04-22 15:21:30,611 - media_player - INFO - Saved configuration to config.json
+2025-04-22 15:21:30,611 - media_player - INFO - Logged in as user: aishu
+2025-04-22 15:21:30,611 - media_player - INFO - Device not registered, registering
+2025-04-22 15:21:30,639 - media_player - INFO - Device already registered, retrieving device info
+2025-04-22 15:21:30,661 - media_player - INFO - Saved configuration to config.json
+2025-04-22 15:21:30,662 - media_player - INFO - Retrieved device: Test Device (6807ab6d41915a764f3afcd9)
+2025-04-22 15:21:30,689 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:21:30,691 - media_player - INFO - Saved configuration to config.json
+2025-04-22 15:21:30,691 - media_player - INFO - Selected playlist: Test Playlist (6807a75141915a764f3afcd6)
+2025-04-22 15:21:30,719 - media_player - INFO - Retrieved 1 items from playlist 6807a75141915a764f3afcd6
+2025-04-22 15:21:30,766 - media_player - ERROR - Failed to download content: 400 Client Error:  for url: http://localhost:8080/api/content/6807aaa341915a764f3afcd8/stream
+2025-04-22 15:21:30,767 - media_player - ERROR - No content found in playlist 6807a75141915a764f3afcd6
+2025-04-22 15:22:30,887 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:22:30,887 - media_player - INFO - Playlist has been updated, reloading content
+2025-04-22 15:22:30,931 - media_player - INFO - Retrieved 1 items from playlist 6807a75141915a764f3afcd6
+2025-04-22 15:22:30,977 - media_player - ERROR - Failed to download content: 400 Client Error:  for url: http://localhost:8080/api/content/6807aaa341915a764f3afcd8/stream
+2025-04-22 15:22:30,977 - media_player - ERROR - No content found in playlist 6807a75141915a764f3afcd6
+2025-04-22 15:22:31,010 - media_player - INFO - Saved configuration to config.json
+2025-04-22 15:23:31,265 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:24:31,530 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:25:31,848 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:26:32,037 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:27:32,238 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:28:32,438 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:29:32,640 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:30:32,822 - media_player - INFO - Retrieved 1 playlists
+2025-04-22 15:31:32,993 - media_player - INFO - Retrieved 1 playlists
+2025-04-23 04:22:53,061 - media_player - INFO - Loaded configuration from config.json
+2025-04-23 04:22:53,062 - media_player - INFO - Loaded existing auth token
+2025-04-23 04:22:53,063 - media_player - INFO - Starting media player application
+2025-04-23 04:22:53,063 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-23 04:22:53,079 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-23 04:22:53,531 - media_player - INFO - Retrieved 1 playlists
+2025-04-23 04:22:53,558 - media_player - INFO - Retrieved 1 items from playlist 6807a75141915a764f3afcd6
+2025-04-23 04:22:53,601 - media_player - ERROR - Failed to download content: 400 Client Error:  for url: http://localhost:8080/api/content/6807aaa341915a764f3afcd8/stream
+2025-04-23 04:22:53,602 - media_player - ERROR - No content found in playlist 6807a75141915a764f3afcd6
+2025-04-23 04:23:53,557 - media_player - INFO - Retrieved 1 playlists
+2025-04-23 04:24:53,594 - media_player - INFO - Retrieved 1 playlists
+2025-04-23 04:25:53,625 - media_player - INFO - Retrieved 1 playlists
+2025-04-23 04:26:53,662 - media_player - INFO - Retrieved 1 playlists
+2025-04-23 04:27:53,680 - media_player - INFO - Retrieved 1 playlists
+2025-04-23 04:28:53,720 - media_player - INFO - Retrieved 1 playlists
+2025-04-23 04:29:53,822 - media_player - INFO - Retrieved 1 playlists
+2025-04-23 04:30:53,843 - media_player - INFO - Retrieved 1 playlists
+2025-04-23 04:31:53,861 - media_player - INFO - Retrieved 1 playlists
+2025-04-23 04:32:53,874 - media_player - INFO - Retrieved 1 playlists
+2025-04-23 04:33:53,927 - media_player - INFO - Retrieved 1 playlists
+2025-04-23 04:34:53,964 - media_player - INFO - Retrieved 1 playlists
+2025-04-23 04:35:54,022 - media_player - INFO - Retrieved 1 playlists
+2025-04-23 04:36:53,916 - media_player - INFO - Retrieved 1 playlists
+2025-04-23 04:37:53,951 - media_player - INFO - Retrieved 1 playlists
+2025-04-23 04:38:53,979 - media_player - INFO - Retrieved 1 playlists
+2025-04-23 04:38:57,589 - media_player - INFO - Received interrupt, shutting down
+2025-04-23 04:38:57,590 - media_player - INFO - Stopping media player application
+2025-04-23 04:38:57,590 - media_player - INFO - Application stopped
+2025-04-24 03:58:30,504 - media_player - INFO - Loaded configuration from config.json
+2025-04-24 03:58:30,504 - media_player - INFO - Auth token expired, will re-authenticate
+2025-04-24 03:58:30,505 - media_player - INFO - Starting media player application
+2025-04-24 03:58:30,505 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-24 03:58:30,531 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-24 03:58:30,535 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058600320>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 03:58:30,535 - media_player - WARNING - No playlists available
+2025-04-24 03:58:30,536 - media_player - ERROR - Failed to get playlist contents: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/6807a75141915a764f3afcd6/contents (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058600770>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 03:58:30,536 - media_player - ERROR - No content found in playlist 6807a75141915a764f3afcd6
+2025-04-24 03:59:26,895 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058600aa0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:00:23,589 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058600dd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:01:20,464 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058601100>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:02:16,929 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058601430>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:03:13,167 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058601760>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:04:10,077 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058601ac0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:05:06,375 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058601e80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:06:02,746 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058601ac0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:06:59,325 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058601610>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:07:56,212 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f50586014c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:08:53,657 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f50586011c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:09:50,165 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058600560>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:10:45,744 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f50586006b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:11:42,083 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058602030>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:12:38,295 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058602420>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:13:34,337 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058602810>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:14:29,972 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058602c00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:15:26,439 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058602ff0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:16:22,262 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058602960>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:17:17,763 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058602570>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:18:13,653 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f50586021e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:19:09,345 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058600650>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:20:04,873 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058600ad0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:21:00,517 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058600dd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:21:56,131 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058600f80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:22:51,808 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058601820>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:23:47,041 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058601700>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:24:42,572 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058601b20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:25:38,076 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058603440>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:26:33,799 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058603290>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:27:29,465 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058603500>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:28:24,694 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058601940>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:29:20,287 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f50586016a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:30:15,674 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f50586015e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:31:10,039 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058601430>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:32:06,542 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058600f50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:33:02,312 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058600da0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:33:57,684 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058600980>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:34:52,363 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058600140>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:35:47,780 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058602270>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:36:43,428 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058603830>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:37:38,955 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f50586028a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:38:34,299 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f50586024b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:39:29,623 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f50586020f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:40:25,182 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058600860>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:41:20,506 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f50586008c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:42:15,741 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058600ec0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:43:11,358 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f50586010a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:44:06,530 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058601760>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:45:01,804 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f50586032f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:45:57,504 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058603500>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:46:52,967 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058603710>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:47:47,933 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058603c20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:48:43,265 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f50586036e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:49:38,224 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058603770>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:50:33,417 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058603320>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:51:29,058 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058601af0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:52:24,390 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058601460>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:53:19,340 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058601160>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:54:14,438 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f50586009e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:55:09,681 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058600710>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:56:04,528 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058602090>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:56:59,798 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058602450>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:57:52,299 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5058602810>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-24 04:58:50,365 - media_player - ERROR - Failed to get playlists: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/playlists/user/6807a6e441915a764f3afcd5 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f50586002f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-29 07:07:26,023 - media_player - INFO - Loaded configuration from config.json
+2025-04-29 07:07:26,024 - media_player - INFO - Starting media player application
+2025-04-29 07:07:26,024 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-29 07:07:26,040 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-29 07:07:26,040 - media_player - INFO - No auth token, logging in
+2025-04-29 07:07:26,735 - media_player - INFO - Saved configuration to config.json
+2025-04-29 07:07:26,767 - media_player - INFO - Saved configuration to config.json
+2025-04-29 07:25:54,825 - media_player - INFO - Loaded configuration from config.json
+2025-04-29 07:25:54,826 - media_player - INFO - Starting media player application
+2025-04-29 07:25:54,826 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-29 07:25:54,854 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-29 07:25:54,855 - media_player - INFO - No auth token, logging in
+2025-04-29 07:25:55,735 - media_player - INFO - Saved configuration to config.json
+2025-04-29 07:25:55,769 - media_player - INFO - Saved configuration to config.json
+2025-04-29 07:25:55,771 - media_player - INFO - Saved configuration to config.json
+2025-04-29 07:25:55,771 - media_player - INFO - Logged in as user: aishu
+2025-04-29 07:25:55,772 - media_player - INFO - Device not registered, registering
+2025-04-29 07:25:56,040 - media_player - INFO - Saved configuration to config.json
+2025-04-29 07:25:56,041 - media_player - INFO - Registered device: Test Device (68107f03b7a778444ef90fcc)
+2025-04-29 07:25:56,109 - media_player - INFO - Retrieved 1 playlists
+2025-04-29 07:25:56,110 - media_player - INFO - Saved configuration to config.json
+2025-04-29 07:25:56,110 - media_player - INFO - Selected playlist: Updated Test Playlist (6800c88b81a7201d228802c8)
+2025-04-29 07:25:56,212 - media_player - INFO - Retrieved 1 items from playlist 6800c88b81a7201d228802c8
+2025-04-29 07:27:06,846 - media_player - INFO - Retrieved 1 playlists
+2025-04-29 07:27:06,847 - media_player - INFO - Playlist has been updated, reloading content
+2025-04-29 07:27:07,154 - media_player - INFO - Retrieved 1 items from playlist 6800c88b81a7201d228802c8
+2025-04-29 07:28:10,651 - media_player - INFO - Downloaded content to content/68106d7ba1144510664923bc_Test_Video.mp4
+2025-04-29 07:28:10,653 - media_player - INFO - Loaded 1 items from playlist 6800c88b81a7201d228802c8
+2025-04-29 07:28:10,657 - media_player - INFO - Started playback thread
+2025-04-29 07:28:10,985 - media_player - INFO - Playing content: Test Video (68106d7ba1144510664923bc) with orientation=landscape, rotation=0
+2025-04-29 07:28:10,280 - media_player - INFO - Downloaded content to content/68106d7ba1144510664923bc_Test_Video.mp4
+2025-04-29 07:28:10,282 - media_player - INFO - Loaded 1 items from playlist 6800c88b81a7201d228802c8
+2025-04-29 07:28:10,282 - media_player - WARNING - Playback already running
+2025-04-29 07:28:10,284 - media_player - INFO - Saved configuration to config.json
+2025-04-29 07:47:08,095 - media_player - INFO - Loaded configuration from config.json
+2025-04-29 07:47:08,096 - media_player - INFO - Loaded 1 items from content cache
+2025-04-29 07:47:08,096 - media_player - INFO - Starting media player application
+2025-04-29 07:47:08,096 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-29 07:47:08,117 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-29 07:47:08,117 - media_player - INFO - No auth token, logging in
+2025-04-29 07:47:08,265 - media_player - INFO - Saved configuration to config.json
+2025-04-29 07:47:08,268 - media_player - INFO - Saved configuration to config.json
+2025-04-29 07:47:08,270 - media_player - INFO - Saved configuration to config.json
+2025-04-29 07:47:08,270 - media_player - INFO - Logged in as user: aishu
+2025-04-29 07:47:08,271 - media_player - INFO - Device not registered, registering
+2025-04-29 07:47:08,297 - media_player - INFO - Device already registered, retrieving device info
+2025-04-29 07:47:08,349 - media_player - INFO - Saved configuration to config.json
+2025-04-29 07:47:08,349 - media_player - INFO - Retrieved device: Test Device (68107f03b7a778444ef90fcc)
+2025-04-29 07:47:08,389 - media_player - INFO - Retrieved 1 playlists
+2025-04-29 07:47:08,390 - media_player - INFO - Saved configuration to config.json
+2025-04-29 07:47:08,391 - media_player - INFO - Selected playlist: Updated Test Playlist (6800c88b81a7201d228802c8)
+2025-04-29 07:47:08,418 - media_player - INFO - Retrieved 2 items from playlist 6800c88b81a7201d228802c8
+2025-04-29 07:47:14,674 - media_player - INFO - Downloaded content to content/681082adb7a778444ef90fcd_Test_video_ubuntu.mp4
+2025-04-29 07:47:14,711 - media_player - INFO - Loaded 2 items from playlist 6800c88b81a7201d228802c8
+2025-04-29 07:47:14,714 - media_player - INFO - Started playback thread
+2025-04-29 07:47:14,782 - media_player - INFO - Playing content: Test video ubuntu (681082adb7a778444ef90fcd) with orientation=landscape, rotation=0
+2025-04-29 07:51:15,475 - media_player - INFO - Loaded configuration from config.json
+2025-04-29 07:51:15,476 - media_player - INFO - Loaded existing auth token
+2025-04-29 07:51:15,477 - media_player - INFO - Loaded 2 items from content cache
+2025-04-29 07:51:15,478 - media_player - INFO - Starting media player application
+2025-04-29 07:51:15,478 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-29 07:51:15,513 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-29 07:51:15,571 - media_player - INFO - Retrieved 1 playlists
+2025-04-29 07:51:15,609 - media_player - INFO - Retrieved 2 items from playlist 6800c88b81a7201d228802c8
+2025-04-29 07:51:15,651 - media_player - INFO - Loaded 2 items from playlist 6800c88b81a7201d228802c8
+2025-04-29 07:51:15,655 - media_player - INFO - Started playback thread
+2025-04-29 07:51:15,715 - media_player - INFO - Playing content: Test video ubuntu (681082adb7a778444ef90fcd) with orientation=landscape, rotation=0
+2025-04-29 08:06:00,207 - media_player - INFO - Loaded configuration from config.json
+2025-04-29 08:06:00,207 - media_player - INFO - Loaded existing auth token
+2025-04-29 08:06:00,208 - media_player - INFO - Loaded 2 items from content cache
+2025-04-29 08:06:00,208 - media_player - INFO - Starting media player application
+2025-04-29 08:06:00,208 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-29 08:06:00,225 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-29 08:06:00,287 - media_player - INFO - Retrieved 1 playlists
+2025-04-29 08:06:00,309 - media_player - INFO - Retrieved 2 items from playlist 6800c88b81a7201d228802c8
+2025-04-29 08:06:00,354 - media_player - INFO - Loaded 2 items from playlist 6800c88b81a7201d228802c8
+2025-04-29 08:06:00,356 - media_player - INFO - Started playback thread
+2025-04-29 08:06:00,387 - media_player - INFO - Playing content: Test video ubuntu (681082adb7a778444ef90fcd) with orientation=landscape, rotation=0
+2025-04-29 08:07:33,476 - media_player - INFO - Loaded configuration from config.json
+2025-04-29 08:07:33,477 - media_player - INFO - Loaded existing auth token
+2025-04-29 08:07:33,477 - media_player - INFO - Loaded 2 items from content cache
+2025-04-29 08:07:33,478 - media_player - INFO - Starting media player application
+2025-04-29 08:07:33,478 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-29 08:07:33,498 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-29 08:07:33,572 - media_player - INFO - Retrieved 1 playlists
+2025-04-29 08:07:33,623 - media_player - INFO - Retrieved 2 items from playlist 6800c88b81a7201d228802c8
+2025-04-29 08:07:33,670 - media_player - INFO - Loaded 2 items from playlist 6800c88b81a7201d228802c8
+2025-04-29 08:07:33,675 - media_player - INFO - Started playback thread
+2025-04-29 08:08:28,401 - media_player - INFO - Retrieved 1 playlists
+2025-04-29 08:08:28,402 - media_player - INFO - Playlist has been updated, reloading content
+2025-04-29 08:08:28,526 - media_player - INFO - Playing content: Test video ubuntu (681082adb7a778444ef90fcd) with orientation=landscape, rotation=0
+2025-04-29 08:08:30,062 - media_player - INFO - Stopped playback
+2025-04-29 08:08:30,125 - media_player - INFO - Retrieved 2 items from playlist 6800c88b81a7201d228802c8
+2025-04-29 08:08:30,150 - media_player - INFO - Loaded 2 items from playlist 6800c88b81a7201d228802c8
+2025-04-29 08:08:30,230 - media_player - INFO - Started playback thread
+2025-04-29 08:08:30,231 - media_player - INFO - Saved configuration to config.json
+2025-04-29 08:09:45,016 - media_player - INFO - Loaded configuration from config.json
+2025-04-29 08:09:45,018 - media_player - INFO - Loaded 2 items from content cache
+2025-04-29 08:09:45,019 - media_player - INFO - Starting media player application
+2025-04-29 08:09:45,020 - media_player - INFO - Setting up display: orientation=landscape, rotation=0
+2025-04-29 08:09:45,059 - media_player - INFO - Applied rotation normal to display XWAYLAND0
+2025-04-29 08:09:45,060 - media_player - INFO - No auth token, logging in
+2025-04-29 08:09:45,312 - media_player - INFO - Saved configuration to config.json
+2025-04-29 08:09:45,315 - media_player - INFO - Saved configuration to config.json
+2025-04-29 08:09:45,317 - media_player - INFO - Saved configuration to config.json
+2025-04-29 08:09:45,317 - media_player - INFO - Logged in as user: aishu
+2025-04-29 08:09:45,318 - media_player - INFO - Device not registered, registering
+2025-04-29 08:09:45,346 - media_player - INFO - Device already registered, retrieving device info
+2025-04-29 08:09:45,385 - media_player - INFO - Saved configuration to config.json
+2025-04-29 08:09:45,386 - media_player - INFO - Retrieved device: Test Device (68107f03b7a778444ef90fcc)
+2025-04-29 08:09:45,412 - media_player - INFO - Retrieved 1 playlists
+2025-04-29 08:09:45,413 - media_player - INFO - Saved configuration to config.json
+2025-04-29 08:09:45,414 - media_player - INFO - Selected playlist: Updated Test Playlist (6800c88b81a7201d228802c8)
+2025-04-29 08:09:45,437 - media_player - INFO - Retrieved 2 items from playlist 6800c88b81a7201d228802c8
+2025-04-29 08:09:45,486 - media_player - INFO - Loaded 2 items from playlist 6800c88b81a7201d228802c8
+2025-04-29 08:09:45,489 - media_player - INFO - Started playback thread
+2025-04-29 08:10:40,130 - media_player - INFO - Playing content: Test video ubuntu (681082adb7a778444ef90fcd) with orientation=landscape, rotation=0
+2025-04-29 08:10:40,193 - media_player - INFO - Retrieved 1 playlists
+2025-04-29 08:10:40,194 - media_player - INFO - Playlist has been updated, reloading content
+2025-04-29 08:10:42,368 - media_player - INFO - Stopped playback
+2025-04-29 08:10:42,424 - media_player - INFO - Retrieved 2 items from playlist 6800c88b81a7201d228802c8
+2025-04-29 08:10:42,496 - media_player - INFO - Loaded 2 items from playlist 6800c88b81a7201d228802c8
+2025-04-29 08:10:42,547 - media_player - INFO - Started playback thread
+2025-04-29 08:10:42,548 - media_player - INFO - Saved configuration to config.json

@@ -1,0 +1,15 @@
+{
+    "server_url": "http://192.168.0.114:8080/api",
+    "username": "nayan",
+    "password": "Dadu@1008",
+    "device_name": "Device2",
+    "content_dir": "./content",
+    "log_level": "DEBUG",
+    "display": {
+        "orientation": "landscape",
+        "rotation": 0,
+        "fullscreen": "true",
+        "display_number": 0,
+        "resolution": "auto"
+    }
+}
